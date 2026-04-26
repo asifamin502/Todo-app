@@ -1,0 +1,63 @@
+.titlebox {
+  width: 298px;
+  height: 30px;
+  margin-bottom: 10px;
+  font-size: 16px;
+  padding: 5px;
+}
+
+.titlebox:focus {
+  outline: none;
+  border: 3px solid #4caf50;
+}
+.titlebox::placeholder {
+  color: #999;
+}
+.titlebox:hover {
+  border: 2px solid #1f8ccf;
+}
+
+.descriptionbox {
+  width: 300px;
+  height: 100px;
+  margin-bottom: 10px;
+  font-size: 16px;
+  padding: 5px;
+}
+
+.descriptionbox:focus {
+  outline: none;
+  border: 3px solid #4caf50;
+}
+.descriptionbox::placeholder {
+  color: #999;
+}
+.descriptionbox:hover {
+  border: 2px solid #1f8ccf;
+}
+
+.submit {
+  width: 100px;
+  height: 30px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.submit{
+
+    transition: background-color 0.3s ease;
+margin-left: 90px;
+
+
+}

@@ -1,0 +1,50 @@
+
+ .todo{
+    border: 1px solid black;
+    padding: 10px;
+    margin:0 auto;
+    width: 300px;
+    background-color: #d8fffc;
+    border-radius: 5px;
+    margin-top: 10px;   
+}
+ 
+.todo-title{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.todo-description{
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+.todo-radio{
+    margin-right: 5px;
+}
+.todo-status{
+    font-size: 14px;
+    font-weight: bold;
+    color: green;
+    margin-top: 10px;
+}
+.todo-delete{
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-left: 100px;
+}
+.todo-delete:hover{
+    background-color: darkred;
+}
+
+
+.date{
+    font-size: 14px;
+    color: gray;
+   /* position: relative;
+   left: 80%;
+   bottom: 30px;
+ */}
