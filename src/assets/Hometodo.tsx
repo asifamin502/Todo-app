@@ -1,5 +1,5 @@
 /* eslint-disable */
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import type { todostype, todotype } from "./types";
 import Todos from "./Todos";
 import Newtodos from "./Newtodos";

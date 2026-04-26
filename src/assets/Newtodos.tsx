@@ -1,6 +1,6 @@
 /* eslint-disable */
 
-import React, { useState, type ChangeEvent, type FormEvent } from "react";
+import { useState, type ChangeEvent, type FormEvent } from "react";
 import type { todotype } from "./types";
 import './newtodos.css'
 

@@ -1,5 +1,5 @@
 /* eslint-disable */
-import React, { useState } from 'react'
+
 import type { todotype } from './types'
 import './todo.css'
 

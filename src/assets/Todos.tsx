@@ -1,5 +1,5 @@
 /* eslint-disable */
-import React from "react";
+
 import type { todostype } from "./types";
 import Todo from "./Todo";
 import "./todos.css";
