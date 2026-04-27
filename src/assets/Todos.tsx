@@ -1,4 +1,4 @@
-/* eslint-disable */
+
 
 import type { todostype } from "./types";
 import Todo from "./Todo";

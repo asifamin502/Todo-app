@@ -1,4 +1,4 @@
-/* eslint-disable */
+
 
 import type { todotype } from './types'
 import './todo.css'
@@ -22,8 +22,7 @@ alert(`Are you sure you want to delete ${todo.title}?`)
   const currentdate=`${date}/${month}/${year}`
 
     const {id, title, description, status}= todo
-  /*   const [iscompleted, setIscompleted]= useState<boolean>(false)
-     */
+  
  
 
   return (

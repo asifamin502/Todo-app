@@ -1,4 +1,4 @@
-/* eslint-disable */
+
 import { useEffect, useState } from "react";
 import type { todostype, todotype } from "./types";
 import Todos from "./Todos";
