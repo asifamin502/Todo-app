@@ -12,9 +12,8 @@ https://todo-app-localstore.netlify.app/
 - Data saved in local storage
 
 ##  Tech Stack
-- React
-- TypeScript
-- Vite
+- React With TypeScript
+- JavaScript 
 - CSS
 
 ## Installation
