@@ -1,9 +1,9 @@
-# 📝 Todo App
+# Todo App
 
 A simple and clean Todo App built using React and TypeScript. This project helps users manage daily tasks efficiently.
 
-## 🚀 Live Demo
-[ https://your-site-link.netlify.app](https://todo-app-localstore.netlify.app/)
+## Live Demo
+https://todo-app-localstore.netlify.app/
 
 ##  Features
 - Add new tasks
@@ -20,7 +20,7 @@ A simple and clean Todo App built using React and TypeScript. This project helps
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/todo-app.git
+git clone git@github.com:asifamin502/Todo-app.git
 cd todo-app
 npm install
 npm run dev
