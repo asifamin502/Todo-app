@@ -1,25 +1,24 @@
 
 ---
 
-# 📝 2. Todo App
+#  Todo App
 
 ```md
-# 📝 Todo App
+# Todo App
 
 A simple and efficient Todo App built using React and TypeScript to manage daily tasks.
 
-## 🚀 Live Demo
-👉 https://your-todo-app.netlify.app
+## Live Demo
+https://todo-app-localstore.netlify.app/
 
-## ✨ Features
+## Features
 - Add new tasks
 - Delete tasks
 - Mark tasks as completed
 - Data stored in local storage
 
 ## 🛠️ Tech Stack
-- React
-- TypeScript
+- React With Typescript
 - Vite
 - CSS
 
