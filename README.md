@@ -3,7 +3,7 @@
 A simple and efficient Todo App built using React and TypeScript to manage daily tasks.
 
 ## Live Demo
- https://todo-app-localstore.netlify.app/
+ https://todo-app-asif001.netlify.app/
 
 ## Features
 - Add new tasks
